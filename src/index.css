@@ -1,0 +1,42 @@
+#navbarNav ul li a {
+  color: #3a608a;
+}
+
+#navbarNav ul li a:hover {
+  color: #474752;
+}
+
+#navbarNav ul li:first-child a {
+  color: #eb9a04;
+}
+
+#navbar {
+  background: -webkit-gradient(linear, left top, right top, from(rgba(255, 255, 255, 0)), color-stop(60%, #fef9f0), to(#eb9a04));
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, #fef9f0 60%, #eb9a04 100%);
+}
+
+#footer {
+  background: -webkit-gradient(linear, left top, right top, from(black), to(#3a60a8));
+  background: linear-gradient(90deg, black 0%, #3a60a8 100%);
+}
+
+#myCarousel .carousel-inner img {
+  max-height: 60vh;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+#main img {
+  border-radius: 0.4em;
+}
+
+.num {
+  font-weight: bold;
+  font-size: 100px;
+  margin: 0;
+  padding: 0;
+}
+#proyectos {
+  color: #26608f;
+}
+
