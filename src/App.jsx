@@ -5,7 +5,7 @@ import NuestraEmpresa from "./components/NuestraEmpresa";
 import Inicio from "./components/Inicio";
 import Calidad from "./components/Calidad";
 import Contacto from "./components/Contacto";
-
+//esto es un fakin comentario para ver si sirve
 function App() {
   return (
     <div>
